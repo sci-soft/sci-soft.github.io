@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "About PJC"
+    url: /aboutus/
+  - title: "Next Session"
+    url: /nextsession/
+  - title: "Lo Básico de"
+    url: /lobasicode/
+  - title: "Calendar"
+    url: /calendar/
+  - title: "PJC Team"
+    url: /team/
+  - title: "Contact us"
+    url: /contact/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
