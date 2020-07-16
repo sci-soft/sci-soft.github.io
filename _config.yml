@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Public Journal Club"
+title                    : "Sci-Soft"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Public Journal Club"
-description              : "An open forum for scientific discussion"
+name                     : "Sci-Soft"
+description              : "Desarrollando científicas y científicos"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
