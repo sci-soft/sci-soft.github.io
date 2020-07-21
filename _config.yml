@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Public Journal Club"
-  avatar           : "/images/Logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "An **open** forum for scientific discussion."
-  location         : "Everywhere"
-  email            :
+  name             : "SciSoft"
+  avatar           : "/images/SfS.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Desarrollando científicas y científicos humanamente"
+  location         : "Ciudad de México"
+  email            : "softskills.sci@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:publicjournalclub@gmail.com"
+      url: "mailto:softskills.sci@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://publicjournalclub.github.io"
