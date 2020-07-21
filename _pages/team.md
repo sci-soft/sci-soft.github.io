@@ -10,7 +10,7 @@ Public Journal Club would not be possible without the constant effort of this gr
 ![Ameyalli]({{ site.url }}{{ site.baseurl }}/images/teamameyalli.jpg){: .align-left} Bióloga y Maestra en Ciencias Bioquímicas.
 ## Diego Pérez Vázquez
 ### *Inovación Digital y Eventos*
-![Diego]({{ site.url }}{{ site.baseurl }}/images/teamdiego.jpg){: .align-left}
+![Diego]({{ site.url }}{{ site.baseurl }}/images/teamdiego.jpeg){: .align-left}
 Licenciado en Investigación Biomédica Básica. Estudiante de Doctorado en el Instituto Max Plank de Biología de la Infección. Busca entender cómo las bacterias *dentro y fuera de nosotros* participan en nuestra vida. Diego se encarga de buscar recursos digitales para SciSoft y de la logística de los eventos dentro de la organización.
 ## Emmanuel Flores Espinoza
 ### *Redes Sociales y Marketing*
