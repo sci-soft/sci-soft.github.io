@@ -1,11 +1,8 @@
 ---
-title: "Contact"
+title: "Contacto"
 permalink: /contact/
 header:
-  image: "/images/BannerPJC.jpg"
+  image: "/images/SfS.jpg"
 ---
-# Reach out!
-Are you interested in participating in the 
-
-#Collaborations
-We are happy to participate with different organizations and projects which share our love for science and
+# Contáctanos
+#Colaboradores
