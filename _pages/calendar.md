@@ -1,8 +1,18 @@
 ---
-title: Calendar
+layout: archive
 permalink: /calendar/
+title: "Lo Básico de"
+author_profile: true
 ---
+# ¿Qué es "Lo Básico de"?
 
-Here you can find all the sessions that are currently scheduled. Stay tuned to check the new events by Public Journal Club!
+"Lo Básico de" (LBD) es un projecto paralelo a Public Journal Club que busca preparar a alumnos de pregrado para la lectura del artículo que se discutirá en la próxima sesión de PJC. Logramos esto exponiendo los conceptos básicos necesarios para comprender el artículo a discutir así como las técnicas utilizadas para responder la pregunta de investigación.
 
-<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23E4C441&amp;ctz=America%2FMexico_City&amp;hl=en&amp;src=NjdhdjkxdmI3ZXVpNGtudGliZG5qNTJoNjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23C0CA33&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showTabs=0&amp;showPrint=0&amp;showTz=1&amp;showCalendars=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+# Dirigido a
+Este proyecto está dirigido a alumnos de pregrado y posgrado interesados en participar en las sesiones del PJC y ampliar su conocimiento en el área para discutir de una mejor manera el artículo que se presentará el artículo.
+# Nivel
+Se espera que los participantes cuenten con un nivel Básico-Intermedio en Inmunología, Biología Celular y Biología Molecular. No obstante se exhorta a alumnos con amplio conocimiento en la materia a participar activamente en las sesiones haciendo comentarios pertinentes y resolviendo dudas que surgan durante la discusión si conocen la respuesta.
+# Idioma
+Las sesiones de LBD son impartidas en español para fomentar la discusión y cualquier tipo de preguntas al ponente. Esperamos con ello eliminar cualquier barrera que pueda existir para comprender ampliamente el tema.
+
+[Regístrate a la Próxima Sesión](https://forms.gle/jENvQpd22GhWzeNF7){: .btn .btn--warning}
