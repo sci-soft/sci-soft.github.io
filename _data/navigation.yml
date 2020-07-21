@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "About PJC"
-    url: /aboutus/
-  - title: "Next Session"
-    url: /nextsession/
-  - title: "Lo Básico de"
-    url: /lobasicode/
-  - title: "Calendar"
+  - title: "SciSoft"
+    url: /scisoft/
+  - title: "Skills for Science"
+    url: /skillsforscience/
+  - title: "Convocatoria"
+    url: /convocatoria/
+  - title: "Próximos Eventos"
     url: /calendar/
-  - title: "PJC Team"
+  - title: "Quienes Somos"
     url: /team/
-  - title: "Contact us"
+  - title: "Contáctanos"
     url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
