@@ -11,7 +11,7 @@ main:
   - title: "Quienes Somos"
     url: /team/
   - title: "Contáctanos"
-    url: /contact/
+    url: /contacto/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
